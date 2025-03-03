@@ -1,6 +1,5 @@
 ﻿//task 1
 using System;
-using System.IO.Compression;
 
 //1
 // class Myclass{
